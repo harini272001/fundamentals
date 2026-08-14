@@ -13,5 +13,6 @@ public class Factorial {
 			num = num * i;
 		}
 		System.out.println(num);
+		sc.close(); 
 	}
 }

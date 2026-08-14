@@ -23,6 +23,7 @@ public class BiggestOfThreeNumbers {
 		int c = sc.nextInt();
 		int num = bigofthree(a,b,c);
 		System.out.println(num + " is the biggest number");
-	}
+		sc.close();	
+		}
 
 }
